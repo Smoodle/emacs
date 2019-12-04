@@ -1,0 +1,46 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/miguelmorgado/.emacs.d/" . ".git/")
+ ("/Users/miguelmorgado/Projects/shop2grow_api/services/internal/" . "subscriptions/")
+ ("/Users/miguelmorgado/Projects/shop2grow_api/services/" . "internal/")
+ ("/Users/miguelmorgado/Projects/shop2grow_api/" . "services/")
+ ("/Users/miguelmorgado/Projects/" . "shop2grow_api/")
+ ("/Users/miguelmorgado/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/miguelmorgado/.emacs.d/"
+ "/Users/miguelmorgado/Projects/shop2grow_api/services/internal/subscriptions/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config.org"
+ "endpoints.js"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/miguelmorgado/.emacs.d/.git/" (24039 53205 290 827000) "packed-refs" "index" "refs/" "hooks/" "description" "logs/" "info/" "HEAD" "objects/" "config" "../" "./")
+
+ ("/Users/miguelmorgado/.emacs.d/" (24039 53204 992077 74000) ".last-package-update-day" ".cache/" "Witcheat.org" ".git/" "README.org" "elpa/" "marivector.png" "recentf" "gnumarisa.png" "init.el" "auto-save-list/" "config.el" "Witchmacs-theme.el" "transient/" "projectile-bookmarks.eld" "config.org" "eshell/" "ido.last" "snippets/" "../" "./")
+
+ ("/Users/miguelmorgado/Projects/shop2grow_api/services/internal/subscriptions/" (24039 49556 285143 553000) "module-handler.yml" "endpoints.js" "package.json" "package-lock.json" "shared/" ".#endpoints.js" "node_modules/" "serverless.yml" "../" "./")
+
+ ("/Users/miguelmorgado/" (24039 49019 329357 94000) "EmailSignature/" ".composer/" "shop2growDeploy/" ".3T/" "antigen/" "git_guidelines.org" ".viminfo" "shop2growDeploy.zip" ".bash_history" ".rndebuggerrc" ".mongorc.js" ".putty/" "main.go" ".jira-cookie" "nodeParser/" ".vimrc~" ".gitconfig" ".vimtags" "todo.html" ".aws/" "dbDump/" ".cache/" ".python_history" "Downloads/" ".rediscli_history" ".oh-my-zsh/" ".ngrok/" ".Xauthority" ".vim_runtime/" "AndroidStudioProjects/" ".gem/" ".bash_profile" ".histfile" ".ctags" ".antigen/" ".spacemacs" ".fzf/" ".hyper.js" ".vscode/" "pm2ConfigMonit.save" ".tmux/" "notes.md" ".babel.json" "Documents/" ".buffer" ".npm/" ".itmstransporter/" ".keras/" ".zcompdump" "docker-start.sh" "roundTest.js" ".Trash/" ".parallel/" ".gradle/" ".profile" ".dbshell" "Applications/" "Movies/" "facenet/" ".ssh/" ".rustup/" "Scripts/" "dev_support.md" ".ansible/" ".prettierrc.js" "jagexcache/" ".chunkwmrc" ".newsboat/" ".idlerc/" ".zshenv" ".rndebugger_port" ".gitignore" ".hyper_plugins/" ".vscode-oss/" ".fzf.bash" "Public/" ".zshrc.zwc" ".iterm2/" "backuopMysql.sh" ".fzf.zsh" ".#git_guidelines.org" ".serverless/" "nuklear/" ".bash_sessions/" "backup.sh" ".tmux.conf~" ".dbKoda/" ".cups/" ".gitignore_global" ".android/" ".cargo/" ".node_repl_history" ".emacs.d/" "todo/" ".editorconfig" "Calibre Library/" ".emulator_console_auth_token" ".zcompdump-Miguel’s MacBook Pro-5.3" ".skhdrc" ".oracle_jre_usage/" ".doom.d/" "Lucius2/" ".elasticbeanstalk/" ".lesshst" "iris_api/" "extract-react/" ".electron/" "test.json" "pipelines/" "Library/" "Desktop/" ".iterm2_shell_integration.zsh" "clear-lambda-storage/" ".zsh_history" ".rncache/" "404.html" "Postman/" "quiz_app/" ".zprofile" "cScripts/" "ssh.zip" "bashScripts/" ".pylint.d/" "Pictures/" "Projects/" ".NERDTreeBookmarks" ".local/" "pm2ConfigMonit" "input.json" ".zcompdump-Miguel-5.3" ".vue-templates/" "Mail/" ".qutebrowser/" ".zshrc" ".runelite/" ".zshrc.pre-oh-my-zsh" ".bashrc" "config/" ".vscode-react-native/" ".tooling/" "facematch/" "orders.js" "clear-lambda-storage.zip" "changeImage.js" "test/" ".CFUserTextEncoding" "sam/" ".yarnrc" ".tmux.conf" "dotfiles/" ".gnupg/" ".DS_Store" ".Genymobile/" ".vim/" "Tasks/" ".node-gyp/" ".docker/" ".bin/" "ci.yaml" "todo.odt" ".serverlessrc" "Music/" "newDbDump/" ".config/" ".zcompdump-Miguel’s MacBook Pro-5.6.2" ".fastlane/" "FlashNginx.sh" ".bitbar_pomodoro" "../" "./")
+
+ ("/Users/miguelmorgado/Projects/shop2grow_api/services/internal/" (23972 43607 739850 524000) "analytics/" "countries/" "shopsHistory/" "activities/" "users/" "deployment/" "partners/" "promoCode/" "subscriptions/" "shops/" "discounts/" "contact/" "payments/" "../" "./")
+
+ ("/Users/miguelmorgado/Projects/shop2grow_api/services/" (23959 38708 55013 808000) "reviews/" "analytics/" "segments/" "notifications/" "categories/" "seo/" "countries/" "orders/" "staff/" "users/" "partners/" "support/" "promotions/" "shippings/" "attributes/" "carts/" "customer-groups/" "banners/" "internal/" "gallery/" "brands/" "auth/" "frontend/" "zones/" "products/" "cronjobs/" "payments/" "settings/" "tax-rules/" "customers/" "../" "./")
+
+ ("/Users/miguelmorgado/Projects/shop2grow_api/" (24037 8311 40706 981000) "services/" ".git/" ".eslintrc.js" "configs/" "package-lock.json" ".gitignore" ".serverless/" "README.md" "shared/" "node_modules/" "deploy" ".commands.txt" "../" "./")
+
+ ("/Users/miguelmorgado/Projects/" (24031 45569 44829 723000) "shop2grow_api/" "test123/" "aws2-frontend-test/" "sparkl_api/" "flash_cluster/" "aws-api-test/" "glTest/" "marketengine_api/" "sparkl_api_old/" "iris_app/" "shop2grow_api_old/" "personalweb/" "quiz_api/" "dn_app/" "my-project/" "shop2grow_internal_api_cp/" "lambdaTest/" "templatemobile/" "panager/" "sqc_bo/" "list/" "ubike_api/" "booqme_api/" "coachid_api/" "quiz_app copy/" "iris_bo/" "pyDeploy/" "Serverless2Grow/" "serverless-python/" "beautynow_api/" "iris_api/" "prodflow_api/" "templateapi/" "sparkl_app/" "quiz_app/" "WakeUp/" "populate/" "pyCkup/" "shop1grow_api_cp/" "deploy" "realimo_app/" "deployTest/" "shop2grow_internal_api/" "iris_app_new/" ".DS_Store" "serverless-template/" "quiz_bo/" "sshManager/" "testDeploy/" "aws-frontend-test/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
