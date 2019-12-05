@@ -12,6 +12,11 @@ elpa/
 .mc-lists.el
 .org-id-locations
 .tern-port
+.cache
+ido.last
+projectile-bookmarks.eld
+recentf
+transient
 auto-save-list
 semanticdb
 ede-projects.el
