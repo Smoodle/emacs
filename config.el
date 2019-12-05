@@ -218,18 +218,13 @@
   (setq dashboard-navigator-buttons
         `(;; line1
           ((,nil
-            "Witchmacs on github"
-            "Open Witchmacs' github page on your browser"
-            (lambda (&rest _) (browse-url "https://github.com/snackon/witchmacs"))
+            "Github"
+            "Github page on your browser"
+            (lambda (&rest _) (browse-url "https://github.com/smoodle/"))
             'default)
            (nil
-            "Witchmacs crash course"
-            "Open Witchmacs' introduction to Emacs"
-            (lambda (&rest _) (find-file "~/.emacs.d/Witcheat.org"))
-            'default)
-           (nil
-            "Update Witchmacs"
-            "Get the latest Witchmacs update. Check out the github commits for changes!"
+            "Update Emacs"
+            "Get the latest version"
             (lambda (&rest _) (update-config))
             'default)
            )
@@ -241,7 +236,7 @@
             'default)
            (nil
             "Open config.org"
-            "Open Witchmacs' configuration file for easy editing"
+            "Open Emacs configuration file for easy editing"
             (lambda (&rest _) (find-file "~/.emacs.d/config.org"))
             'default)))))
 
