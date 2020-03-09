@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *
 
 !.git
@@ -9,3 +10,42 @@
 !README.org
 !Witcheat.org
 !Witchmacs-theme.el
+=======
+.local/
+var/
+modules/private
+.yas-compiled-snippets.el
+
+# folders created by Cask
+.cask/
+cask/
+elpa/
+
+# emacs tempfiles that shouldn't be there
+.mc-lists.el
+.org-id-locations
+.tern-port
+.cache
+ido.last
+projectile-bookmarks.eld
+recentf
+transient
+auto-save-list
+semanticdb
+ede-projects.el
+tramp
+smex-items
+network-security.data
+
+# compiled files
+*.elc
+*.lib
+*.fas
+*.dat
+*.eld
+
+# transient/os temp files
+*.cache-*
+*.log
+.directory
+>>>>>>> 6d662f6bef04cdd252f984fda99940e6cc44e64a
